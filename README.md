@@ -1,4 +1,4 @@
-# Cody Password Generator
+# Password Generator
 
 ## Overview
 
