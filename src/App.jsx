@@ -64,7 +64,7 @@ function App() {
                   <input type="range" name="length" id="length"
                    min={8}
                    max={30} 
-                   className="mx-2"
+                   className="mx-2 cursor-pointer"
                    value={length}
                    onChange={e => useLength(e.target.value)}
                   />
